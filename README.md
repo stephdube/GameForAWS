@@ -2,8 +2,10 @@
 A simple turn-based browser game, created for the purpose of demonstrating how to use the AWS Elastic Beanstalk tool in conjunction with a Java web app.
 
 # Links
-Tutorial is located here: https://github.com/stephdube/GameForAWS/blob/master/TutorialForElasticBeanstalk.pdf 
+Tutorial is located here: https://github.com/stephdube/GameForAWS/blob/master/TutorialForElasticBeanstalk.pdf.
+
 A short overview in video form is located here: https://youtu.be/-awq5G42WO4.
+
 The app itself is no longer hosted live.
 
 # Description
