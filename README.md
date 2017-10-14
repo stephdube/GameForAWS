@@ -4,7 +4,7 @@ A simple turn-based browser game, created for the purpose of demonstrating how t
 # Links
 Tutorial is located here: https://github.com/stephdube/GameForAWS/blob/master/TutorialForElasticBeanstalk.pdf.
 
-A short overview in video form is located here: https://youtu.be/-awq5G42WO4.
+A short overview in video form is located here: https://youtu.be/-awq5G42WO4 and a longer version of the video here: https://youtu.be/p4P_XoRFfwQ.
 
 The app itself is no longer hosted live.
 
